@@ -1,0 +1,394 @@
+/*Laptop : 1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) { 
+    .slider-img {
+    margin-top: 120px;
+}
+    .slider-img img {
+    max-width: 100%;
+}
+      .app-1 {
+    top: 100px;
+    left: -75px;
+          width: 250px;
+}
+    .app-2 {
+        bottom: 100px;
+    right:-36px;
+        width: 250px;
+}
+
+}
+/*Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) { 
+    .slider-area {
+    
+    background-position: center right;
+
+    height: 1055px;
+
+}
+    .slider-img {
+    margin-top: 130px;
+}
+.slider-text h1 {
+    font-size: 48px;
+}
+    .slider-img img {
+    max-width: 100%;
+}
+    .app-1 {
+    top: 60px;
+    left: -100px;
+    width: 250px;
+}
+    .app-2 {
+    bottom: 63px;
+    right: -65px;
+    width: 250px;
+}
+    .shape-2 {
+    bottom: 10%;
+}
+    .feature-item {
+    padding: 0px 10px;
+}
+    .work-content {
+    
+    margin: 0;
+}
+    .works-area {
+  
+    height: 2078px;
+   
+}
+    .price-box {
+    padding: 40px 46px;
+    
+}
+    .price-btn .btn {
+   
+    padding: 17px 20px;
+    font-size: 13px;
+    
+}
+    .faqs-area {
+    margin-top: -251px;
+}
+    .faqs-heading {
+    padding-top: 250px;
+}
+.brands-area {
+    margin-top: -826px;
+}
+    .brands-area h3{
+        font-size: 30px;
+    }
+    
+   .news-area {
+    margin-bottom: 250px;
+    margin-top: -80px;
+} 
+    .news-box .news-content {
+    width: 230px;
+}
+    .author .news-date{
+        font-size: 14px;
+    }
+    .author .name a{
+        font-size: 14px;
+    }
+    .news-content h4 {
+    font-size: 19px;
+}
+    form{
+        margin: 0px 150px
+    }
+    .subscribe-box form input {
+    height: 50px;
+    border-radius: 22px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    padding-left: 25px;
+    padding-right: 165px;
+    color: darkred;
+    font-size: 16px;
+}
+    .subscribe-box form button {
+    padding: 13px 27px;
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+.subscribe-box form button {
+    position: absolute;
+    top: 52px;
+    right: 166px;
+}
+    .app-area h1{
+        font-size: 60px
+    }
+    .app-p{
+        padding: 0px 180px;
+    }
+    
+
+}
+
+
+/*Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) { 
+    .slider-area {
+
+    height: 1058px;
+   
+}
+    .video-bg {
+    height: 497px;
+  
+}
+    .video-content {
+    padding-top: 61px;
+}
+    .works-area {
+    padding-top: 455px;
+}
+    .work-content {
+    margin-top: -40px;
+}
+    .work-content-two{
+        margin-top: 40px;
+    }
+    .work-img-two{
+        margin-top: 40px;
+    }
+    .price-box {
+    padding: 40px 43px;
+    }
+    .testimonial-area {
+    padding-top: 60px;
+    margin-top: 0;
+    padding-bottom: 60px;
+}
+    .faqs-area {
+    height: 2160px;
+    
+}
+    .brands-area {
+     margin-top: -450px;
+    margin-bottom: 100px;
+}
+    .our-brand li{
+        max-width: 25%;
+      
+    }
+    .our-brand a img{
+    max-width: 95%;
+        text-align: center;
+    }
+       .news-area {
+    margin-bottom: 70px;
+    margin-top: -80px;
+} 
+    .news-box {
+    margin-bottom: 150px;
+        position: relative;
+    }
+    .news-box .news-content {
+    width: 280px;
+        
+}
+    .author .news-date{
+        font-size: 14px;
+    }
+    .author .name a{
+        font-size: 14px;
+    }
+    .news-content h4 {
+    font-size: 19px;
+}
+    form{
+    padding: 0px 50px
+    }
+    .subscribe-box form button {
+    padding: 16px 36px;
+        border-radius: 35px;
+        font-size: 15px;
+            top: 62px;
+        right: 66px;
+}
+   .subscribe-box form input {
+    height: 55px;
+    
+    
+    padding-left: 35px;
+    padding-right: 195px;
+    color: darkred;
+    font-size: 15px;
+}
+    .apps {
+    padding: 0px 65px;
+    margin-top: 11px;
+    margin-bottom: 40px;
+}
+   
+}
+
+/*Small mobile :320px. */
+@media (min-width: 670px) and (max-width: 767px) { 
+     .header-area{
+        overflow: hidden;
+    }
+    .mean-container .mean-bar {
+
+    background: #141898b8;
+
+}
+  
+    
+    
+    
+    
+    
+    
+    
+    .counter-area{
+        margin-top: -100px;
+    }
+    .counter-area .small{
+        width:33.33%
+    }
+    .feature-item h4 {
+    margin-bottom: 10px;
+}
+    .feature-item img {
+    margin-bottom: 19px;
+}
+    .feature-item {
+    margin-bottom: 40px;
+}
+    .works-area {
+    padding-top: 440px;
+        height: 2500px;
+}
+    .works-area .py-5{
+        padding: 0;
+    }
+   .work-content {
+    margin-top: 10px;
+} 
+    .work-content-two{
+        margin-top: 80px;
+    }
+    .work-img-two{
+       margin-top: 50px; 
+    }
+    .price-area {
+    margin-top: 0;
+}
+    .price-small{
+        width:50%
+    }
+    .price-box {
+    padding: 40px 13px;
+        margin-bottom: 40px;
+}
+    .price-btn .btn {
+  
+   
+    font-size: 13px;
+     padding: 18px 15px;
+}
+    .testimonial-area{
+     padding-top: 50px;
+     margin-top: 0;
+     padding-bottom: 50px;
+
+    }
+    .faqs-area {
+    height: 2160px;
+    
+}
+    .brands-area {
+     margin-top: -450px;
+    margin-bottom: 100px;
+}
+    .our-brand li{
+        max-width: 25%;
+      
+    }
+    .our-brand a img{
+    max-width: 95%;
+        
+    }
+     .news-area {
+    margin-bottom: 70px;
+    margin-top: -80px;
+} 
+    .news-img{
+        text-align: center;
+    }
+    .news-box {
+    margin-bottom: 150px;
+        position: relative;
+    }
+    .news-box .news-content {
+    width: 280px;
+        
+}
+    .author .news-date{
+        font-size: 14px;
+    }
+    .author .name a{
+        font-size: 14px;
+    }
+    .news-content h4 {
+    font-size: 19px;
+}
+    form{
+    padding: 0px 20px
+    }
+    .subscribe-box form button {
+    padding: 14px 36px;
+        border-radius: 35px;
+        font-size: 15px;
+        top: 62px;
+        right: 35px;
+}
+    .subscribe-box h2 {
+    font-size: 43px;
+    font-weight: 600;
+    text-align: center;
+}
+   .subscribe-box form input {
+    height: 51px;
+    padding-left: 25px;
+    padding-right: 180px;
+    font-size: 15px;
+}
+    .app-area{}
+    .app-area h1{
+        font-size: 40px
+        
+    }
+    .app-area{}
+    .my-app{
+            width: 249px;
+        height: 72px;
+    }
+    .app-img {
+    margin-left: 4px;
+}
+    .app-content {
+    margin-top: 0px;
+}
+    .app-content h4{
+        font-size: 20px;
+    }
+
+    
+    
+    
+    
+
+}
+
